@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 import os
 import requests
+import colorama
 
+colorama.init()
 
 def cls():
     os.system(('cls' if os.name == 'nt' else 'clear'))
