@@ -7,3 +7,7 @@ MASS SENDGRID APIKEY CHECKER
 
 ## Preview
 ![Screen Shot](https://raw.githubusercontent.com/0x5a455553/SENUDES/master/SENUDES.png)
+
+## Usage
+python -m pip install requests colorama
+python senudes.py
